@@ -23,6 +23,7 @@ twitter_username: username
 github_username: username
 minimal_mistakes_skin: dark
 search: true
+logo: /assets/images/masthead.png
 
 # Build settings
 markdown: kramdown
